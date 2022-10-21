@@ -1,0 +1,22 @@
+body {
+    background-color: #fff6ea;
+    font-size: 19px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color:rgb(165, 61, 42);
+    font-family: Lora , serif , Arial, Helvetica, sans-serif ;
+}
+
+.img_Desirat {
+    margin-top: 10px;
+}
+
+.all {
+    margin-left: 10px;
+}
+

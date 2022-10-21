@@ -1,0 +1,25 @@
+.blue {
+    background-color: aqua;
+    padding: 10px;
+  
+}
+
+.green {
+    background-color: lightgreen;
+    display: inline-block;
+}
+
+.grid {
+    background-color: bisque;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 500px 1fr;
+    justify-content: center;
+}
+
+.pink {
+    display: inline-block;
+    background-color: pink;
+    
+}
+

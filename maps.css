@@ -1,0 +1,35 @@
+body {
+    background-color: #fff6ea;
+    font-size: 19px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color:rgb(165, 61, 42);
+    font-family: Lora , serif , Arial, Helvetica, sans-serif ;
+
+}
+
+
+
+.grid {
+    display: grid;
+    grid-template-columns: 500px 1fr;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 5px;
+    border-style: solid;
+    border-color: #ebd8c3 ;
+    background-color: #f7e9d7;
+    padding-right: 10px;
+}
+
+.txt_Xhorhas , .Rosohna_txt {
+
+    margin-left: 15px;
+    
+    
+}
